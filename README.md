@@ -1,3 +1,2 @@
 # random-stuff
-Helper Functions and other useful tools that I have made.
-Very Useful!
+'num2latex.m' - A MATLAB script that takes in an input MATLAB array and converts it into a string that creates a matrix in LateX.
